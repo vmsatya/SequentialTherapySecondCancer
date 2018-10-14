@@ -1,5 +1,5 @@
-# SequentialTherapySecondCancer
-We employed a biologically motivated mathematical model to estimate the radiation and chemotherapy-induced 
+# SequentialTherapySecondaryThyroidCancer
+The IIP mathematical model is used to estimate the radiation and chemotherapy-induced 
 relative risks of thyroid malignancies in four childhood cancer study survivors (CCSS) data sets. the predictions 
 of radiation and chemotherapy-induced relative risks of secondary thyroid malignancies using the mathematical model 
 are compared against four clinical datasets from the CCSS cohort. Moreover, the extracted average value of growth 
